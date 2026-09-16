@@ -34,7 +34,7 @@
 
 ## Мои работы:
 
-[список](https://github.com/danroman-github/desktop-tutorial/blob/main/README.md)
+<img src="https://github.com/danroman-repo/currency_converter/blob/main/pic/screenshot-light.png" height="64" title="Currency Converter - конвертер валют"> 
 
 ### Дипломы и сертификаты:
 
