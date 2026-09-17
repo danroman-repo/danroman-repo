@@ -39,9 +39,12 @@
 ### Дипломы и сертификаты:
 
 <div>
- <img src="https://github.com/danroman-github/resources2/blob/main/Git.png" height="64" title="Git - система контроля версий"> 
- <img src="https://github.com/danroman-github/resources2/blob/main/JavaScript_an_advanced_course_in_Web.png" height="64" title="JavaScript углубленный курс вебразработки">
- <img src="https://github.com/danroman-github/resources2/blob/main/HTML%20и%20CSS%20основы%20веб-верстки.png" height="64" title="HTML и CSS основы веб-верстки">
+<img src="https://github.com/danroman-repo/resources/blob/main/Fullstack-development.png" height="64" title="Fullstack-разработчик"> 
+ <img src="https://github.com/danroman-repo/resources/blob/main/React.png" height="64" title="React"
+<img src="https://github.com/danroman-repo/resources/blob/main/Django.png" height="64" title="Django - создание backend-приложений"> 
+ <img src="https://github.com/danroman-repo/resources/blob/main/Git.png" height="64" title="Git - система контроля версий"> 
+<img src="https://github.com/danroman-repo/resources/blob/main/JavaScript_an_advanced_course_in_Web.png" height="64" title="JavaScript углубленный курс вебразработки">
+ <img src="https://github.com/danroman-github/resources2/blob/main/HTML-CSS.png" height="64" title="HTML и CSS основы веб-верстки">
 </div>
 
 
