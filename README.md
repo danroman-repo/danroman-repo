@@ -39,7 +39,7 @@
 ### Дипломы и сертификаты:
 
 <div>
-<img src="https://github.com/danroman-repo/resources/blob/main/Fullstack-development.png" height="64" title="Fullstack-разработчик"> 
+<img src="https://github.com/danroman-repo/resources/blob/main/Fullstack-development.jpg" height="64" title="Fullstack-разработчик"> 
  <img src="https://github.com/danroman-repo/resources/blob/main/React.png" height="64" title="React">
 <img src="https://github.com/danroman-repo/resources/blob/main/Django.png" height="64" title="Django - создание backend-приложений"> 
  <img src="https://github.com/danroman-repo/resources/blob/main/Git.png" height="64" title="Git - система контроля версий"> 
