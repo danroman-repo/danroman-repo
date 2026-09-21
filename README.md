@@ -32,6 +32,7 @@
 ## Мои работы:
 
 [![Translit](https://github.com/danroman-repo/translit/blob/main/pic/screenshot-light.png)](https://github.com/danroman-repo/translit/)
+[![Translit](https://github.com/danroman-repo/currency_converter/blob/main/pic/screenshot-dark_100.png)](https://github.com/danroman-repo/currency_converter/)
 <div>
 <img src="https://github.com/danroman-repo/currency_converter/blob/main/pic/screenshot-dark.png" height="64" title="Currency Converter - конвертер валют"> 
 <img src="https://github.com/danroman-repo/taskflow/blob/main/pic/tasks.png" height="64" title="TaskFlow — fullstack-проект"> 
