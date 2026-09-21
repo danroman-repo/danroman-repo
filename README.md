@@ -31,6 +31,7 @@
 
 ## Мои работы:
 
+[![Translit]([путь_к_картинке](https://github.com/danroman-repo/translit/blob/main/pic/screenshot-light.png))]([ссылка_на_ресурс](https://github.com/danroman-repo/translit/)
 <div>
 <img src="https://github.com/danroman-repo/translit/blob/main/pic/screenshot-light.png" height="64" title="Translit — веб-приложение для транслитерации"> 
 <img src="https://github.com/danroman-repo/currency_converter/blob/main/pic/screenshot-dark.png" height="64" title="Currency Converter - конвертер валют"> 
