@@ -32,6 +32,7 @@
 ## Мои работы:
 
 <img src="https://github.com/danroman-repo/currency_converter/blob/main/pic/screenshot-dark.png" height="64" title="Currency Converter - конвертер валют"> 
+<img src="https://github.com/danroman-repo/mycloud/blob/main/pic/Main.png" height="64" title="Дипломная работа. My Cloud — Облачное хранилище файлов"> 
 
 ### Дипломы и сертификаты:
 
