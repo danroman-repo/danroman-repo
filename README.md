@@ -39,7 +39,12 @@ Currency Converter - веб-приложение для конвертации �
 
 [![Translit](https://github.com/danroman-repo/currency_converter/blob/main/pic/screenshot-dark_64.png)](https://github.com/danroman-repo/currency_converter/)
 
+TaskFlow — личный менеджер задач для начинающего специалиста.
+
 [![Translit](https://github.com/danroman-repo/taskflow/blob/main/pic/tasks_64.png)](https://github.com/danroman-repo/taskflow/)
+
+My Cloud — Облачное хранилище файлов
+
 [![Translit](https://github.com/danroman-repo/mycloud/blob/main/pic/Main_64.png)](https://github.com/danroman-repo/mycloud/)
 
 ### Дипломы и сертификаты:
