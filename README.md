@@ -8,7 +8,7 @@
  — предпочитаемый способ связи
 
 [![GitHub followers](https://img.shields.io/github/followers/danroman-repo?label=Follow&style=social)](https://github.com/danroman-repo)
-[![Resume views](https://img.shields.io/badge/googledrive-resume-blue?logo=googledrive&logoColor=green)](https://docs.google.com/document/d/1OireBkZJMweHggbbcLLOhNGTAFyKuLxysQdgBWlfqYs/edit?usp=drive_link&color=blue&style=flat-square)
+[![Resume views](https://img.shields.io/badge/googledrive-resume-blue?logo=googledrive&logoColor=green)](https://docs.google.com/document/d/1OireBkZJMweHggbbcLLOhNGTAFyKuLxysQdgBWlfqYs/edit?usp=drive_link&color=blue&style=flat-square) - резюме (нажать для перехода)
 
 Ключевые компетенции
  
