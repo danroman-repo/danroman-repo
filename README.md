@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-danroman%40yandex.ru-blue?style=flat-square&logo=gmail)](mailto:danroman@yandex.com)
  — предпочитаемый способ связи
 
-[![Резюме](https://img.shields.io/badge/Email-danroman%40yandex.ru?style=flat-square&logo=gmail)](https://docs.google.com/document/d/1AIhtQWyntr-fZI0vCNaaPPzK9M3gRKAfG3DCkI7K7mQ/edit#heading=h.w62vgq4fqlv)
+![Profile views](https://komarev.com/ghpvc/?username=dartmew&color=blue&style=flat-square) (https://docs.google.com/document/d/1AIhtQWyntr-fZI0vCNaaPPzK9M3gRKAfG3DCkI7K7mQ/edit#heading=h.w62vgq4fqlv)
 
 Ключевые компетенции
  
