@@ -31,7 +31,8 @@
 
 ## Мои работы:
 
-[![Translit](https://github.com/danroman-repo/translit/blob/main/pic/screenshot-light_64.png)](https://github.com/danroman-repo/translit/)
+[![Translit](https://github.com/danroman-repo/translit/blob/main/pic/screenshot-light_64.png)](https://github.com/danroman-repo/translit/)Translit — веб-приложение для транслитерации.
+
 [![Translit](https://github.com/danroman-repo/currency_converter/blob/main/pic/screenshot-dark_64.png)](https://github.com/danroman-repo/currency_converter/)
 [![Translit](https://github.com/danroman-repo/taskflow/blob/main/pic/tasks_64.png)](https://github.com/danroman-repo/taskflow/)
 [![Translit](https://github.com/danroman-repo/mycloud/blob/main/pic/Main_64.png)](https://github.com/danroman-repo/mycloud/)
