@@ -28,6 +28,7 @@
 [![My Skills](https://skillicons.dev/icons?i=django "Django")](https://www.djangoproject.com/)
 [![My Skills](https://skillicons.dev/icons?i=git "Git")](https://git-scm.com)
 [![My Skills](https://skillicons.dev/icons?i=js "JavaScript")](https://ru.wikipedia.org/wiki/JavaScript)
+[![My Skills](https://skillicons.dev/icons?i=ts "TypeScript")](https://www.typescriptlang.org/)
 [![My Skills](https://skillicons.dev/icons?i=html "HTML")](https://en.wikipedia.org/wiki/HTML)
 [![My Skills](https://skillicons.dev/icons?i=css "CSS")](https://ru.wikipedia.org/wiki/CSS)
 
