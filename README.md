@@ -7,8 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-danroman%40yandex.com-blue?style=flat-square&logo=gmail)](mailto:danroman@yandex.com)
  — предпочитаемый способ связи
 
-https://img.shields.io/badge/resume?style=flat&label=%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5&labelColor=blue&color=green
-[резюме](https://docs.google.com/document/d/1AIhtQWyntr-fZI0vCNaaPPzK9M3gRKAfG3DCkI7K7mQ/edit#heading=h.w62vgq4fqlv)
+[![резюме](https://img.shields.io/badge/resume?style=flat&label=%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5&labelColor=blue&color=green)](https://docs.google.com/document/d/1AIhtQWyntr-fZI0vCNaaPPzK9M3gRKAfG3DCkI7K7mQ/edit#heading=h.w62vgq4fqlv)
 
 Ключевые компетенции
  
