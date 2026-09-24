@@ -106,8 +106,6 @@
 
 Стек: Python 3.13, Django 6, DRF, SimpleJWT, PostgreSQL, React 18, React Router 6, Axios, Vite.
 
-Сценарий проверен: регистрация → вход → создание задачи с файлом → смена статуса → фильтр → редактирование → удаление → выход → доступ закрыт.
-
 ### My Cloud — Облачное хранилище файлов
 
 [![Translit](https://github.com/danroman-repo/mycloud/blob/main/pic/Main_64.png)](https://github.com/danroman-repo/mycloud/)
