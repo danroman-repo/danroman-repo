@@ -34,19 +34,42 @@
 
 ## Мои работы:
 
-Translit — веб-приложение для транслитерации.
+### Translit — веб-приложение для транслитерации.
 
 [![Translit](https://github.com/danroman-repo/translit/blob/main/pic/screenshot-light_64.png)](https://github.com/danroman-repo/translit/)
 
-Currency Converter - веб-приложение для конвертации валют по курсам Центрального банка РФ. 
+### Currency Converter - веб-приложение для конвертации валют по курсам Центрального банка РФ. 
 
 [![Translit](https://github.com/danroman-repo/currency_converter/blob/main/pic/screenshot-dark_64.png)](https://github.com/danroman-repo/currency_converter/)
 
-TaskFlow — личный менеджер задач для начинающего специалиста.
+### TaskFlow — личный менеджер задач для начинающего специалиста.
 
 [![Translit](https://github.com/danroman-repo/taskflow/blob/main/pic/tasks_64.png)](https://github.com/danroman-repo/taskflow/)
 
-My Cloud — Облачное хранилище файлов
+#### Поставленные задачи
+
+- Регистрация и авторизация пользователей (JWT).
+- Доступ к API только для авторизованных, работа только со своими задачами.
+- CRUD задач, смена статуса (new, in_progress, done), фильтр по статусу.
+- Прикрепление одного файла: изображение или PDF до 5 МБ.
+- Валидация: название 3–100 символов, описание до 500 символов.
+- SPA на React: страницы регистрации, входа, списка, создания, просмотра, редактирования.
+- Превью изображения и ссылка на PDF, индикаторы загрузки, сообщения об ошибках.
+- Адаптивная вёрстка от 375 px.
+- README с инструкцией по запуску.
+
+#### Результат
+
+- Готовое fullstack-приложение в публичном репозитории.
+- Backend: Django + DRF + PostgreSQL. REST API с JWT, модель Task, разграничение доступа, валидация полей и файлов, фильтр по статусу, раздача media, CORS.
+- Frontend: React + Vite + React Router + Axios. Приватные маршруты, контекст авторизации, автообновление токена, фильтр, формы с загрузкой файла, превью в карточке, индикаторы загрузки и ошибки, адаптив от 375 px.
+- Документация: README, разделение на backend/ и frontend/, .env.example, .gitignore.
+
+Стек: Python 3.13, Django 6, DRF, SimpleJWT, PostgreSQL, React 18, React Router 6, Axios, Vite.
+
+Сценарий проверен: регистрация → вход → создание задачи с файлом → смена статуса → фильтр → редактирование → удаление → выход → доступ закрыт.
+
+### My Cloud — Облачное хранилище файлов
 
 [![Translit](https://github.com/danroman-repo/mycloud/blob/main/pic/Main_64.png)](https://github.com/danroman-repo/mycloud/)
 
