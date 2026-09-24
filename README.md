@@ -38,6 +38,22 @@
 
 [![Translit](https://github.com/danroman-repo/translit/blob/main/pic/screenshot-light_64.png)](https://github.com/danroman-repo/translit/)
 
+#### Поставленные задачи
+
+- SPA с двумя полями: при вводе кириллицы во втором поле динамически, без перезагрузки, появляется латиница («вода» → «voda»).
+- Эндпоинт POST /api: {"data":"апишка"} → {"status":"success","data":"apishka"}
+- Эндпоинт GET /history?n=N → {"data":["voda","apishka",...]}.
+- Все запросы сохранять в LevelDB.
+
+#### Результат
+
+- Fullstack-приложение с разделением на backend/ и frontend/.
+- Frontend: компоненты TranslitInput и History, real-time транслит через fetch с двухуровневым debounce (200 мс — UI, 1500 мс — запись в БД), что не засоряет историю промежуточными ki → kir → kirpich. Адаптивная вёрстка, proxy в Vite.
+- Backend: POST /api с флагом save (по умолчанию не пишет в БД), GET /history?n=N с валидацией (1–100, дефолт 5), отдача собранной статики из frontend/dist. Таблица транслитерации на ~66 символов с диграфами (ж → zh, щ → shch и т.д.).
+- LevelDB: ключи-счётчики (000000000001), восстановление счётчика при старте, дедупликация (не пишем дубль последнего output), выборка через iterator({ reverse: true, limit: n }).
+
+Стек: React 18, TypeScript, Vite, Node.js, Express, LevelDB
+
 ### Currency Converter - веб-приложение для конвертации валют по курсам Центрального банка РФ. 
 
 [![Translit](https://github.com/danroman-repo/currency_converter/blob/main/pic/screenshot-dark_64.png)](https://github.com/danroman-repo/currency_converter/)
