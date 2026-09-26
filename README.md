@@ -79,7 +79,7 @@
 
 ### Currency Converter - веб-приложение для конвертации валют по курсам Центрального банка РФ. 
 
-[![Translit](https://github.com/danroman-repo/currency_converter/blob/main/pic/screenshot-dark_64.png)](https://github.com/danroman-repo/currency_converter/)
+[![Translit](https://github.com/danroman-repo/currency_converter/blob/main/pic/screenshot-dark.png)](https://github.com/danroman-repo/currency_converter/)
 
 #### Поставленные задачи
 
@@ -106,7 +106,7 @@
 
 ### TaskFlow — личный менеджер задач для начинающего специалиста.
 
-[![Translit](https://github.com/danroman-repo/taskflow/blob/main/pic/tasks_64.png)](https://github.com/danroman-repo/taskflow/)
+[![Translit](https://github.com/danroman-repo/taskflow/blob/main/pic/tasks.png)](https://github.com/danroman-repo/taskflow/)
 
 #### Поставленные задачи
 
@@ -131,7 +131,7 @@
 
 ### My Cloud — Облачное хранилище файлов
 
-[![Translit](https://github.com/danroman-repo/mycloud/blob/main/pic/Main_64.png)](https://github.com/danroman-repo/mycloud/)
+[![Translit](https://github.com/danroman-repo/mycloud/blob/main/pic/Main.png)](https://github.com/danroman-repo/mycloud/)
 
 Полнофункциональное веб-приложение для облачного хранения файлов с разграничением прав доступа, публичными ссылками для обмена и административной панелью. Разработано как дипломный проект по профессии «Fullstack-разработчик на Python».
 
