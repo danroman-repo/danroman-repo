@@ -59,7 +59,7 @@
 
 ### Translit — веб-приложение для транслитерации.
 
-[![Translit](https://github.com/danroman-repo/translit/blob/main/pic/screenshot-light_64.png)](https://github.com/danroman-repo/site-company/)
+[![Translit](https://github.com/danroman-repo/translit/blob/main/pic/screenshot-light.png)](https://github.com/danroman-repo/site-company/)
 
 #### Поставленные задачи
 
