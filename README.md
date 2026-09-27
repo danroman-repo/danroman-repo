@@ -6,10 +6,10 @@
 
 [![Email](https://img.shields.io/badge/Email-danroman%40yandex.ru-blue?style=flat-square&logo=gmail)](mailto:danroman@yandex.com)
  — предпочитаемый способ связи
- <img src="https://github.com/danroman-repo/resources/blob/main/WhatsApp_qr_code.png" height="64" title="Fullstack-разработчик"> 
 
 [![GitHub followers](https://img.shields.io/github/followers/danroman-repo?label=Follow&style=social)](https://github.com/danroman-repo)
 [![Resume views](https://img.shields.io/badge/googledrive-resume-blue?logo=googledrive&logoColor=green)](https://docs.google.com/document/d/1OireBkZJMweHggbbcLLOhNGTAFyKuLxysQdgBWlfqYs/edit?usp=drive_link&color=blue&style=flat-square) - резюме (нажать для перехода)
+ <img src="https://github.com/danroman-repo/resources/blob/main/WhatsApp_qr_code.png" height="128" title="Fullstack-разработчик"> 
 
 Ключевые компетенции
  
